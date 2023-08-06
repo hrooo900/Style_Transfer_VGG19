@@ -1,0 +1,2 @@
+# Neural-Style-Transfer-with-VGG19-model
+## Neural style transfer is the technique to compose images or videos in the style of another image (for e.g. a famous artwork) using deep learning networks.Neural style transfer is based on the idea that it is possible to separate the style representation and content representations in a CNN, learnt during a computer vision task (e.g. image recognition task).
